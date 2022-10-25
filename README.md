@@ -5,3 +5,8 @@ This repository is a demonstration of how to utilise Facebook's pre-trained Barl
 The original Barlow Twins paper can be found here: https://arxiv.org/abs/2103.03230
 
 This code was written to accompany the following blog post: [INSERT URL] 
+
+# Install Dependencies
+From the root of this repo: \
+```conda env create``` \
+```conda activate barlowtwins-classifier```
