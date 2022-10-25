@@ -1,0 +1,7 @@
+name: btwin
+dependencies:
+  - python==3.7.2
+  - pip:
+      - torch
+      - torchvision
+      - matplotlib
