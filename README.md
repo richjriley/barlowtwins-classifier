@@ -10,3 +10,11 @@ This code was written to accompany the following blog post: [INSERT URL]
 From the root of this repo: \
 ```conda env create``` \
 ```conda activate barlowtwins-classifier```
+
+# Download Data
+The data used in the accompanying blog post can be downloaded from here:
+https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+
+Then unzip to the 'data' directory of this repo: \
+```cd data``` \
+```unzip archive.zip```
