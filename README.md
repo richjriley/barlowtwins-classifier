@@ -25,3 +25,7 @@ Each image in the dataset is fed through the Barlow Twins model to obtain the em
 Warning this takes approximately 1 hour on a CPU.
 
 ```python3 extract_embeddings.csv```
+
+# Train Model
+To train the model: \
+```python3 train.py```

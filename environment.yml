@@ -6,3 +6,5 @@ dependencies:
       - torchvision
       - matplotlib
       - alive-progress
+      - numpy
+      - sklearn
