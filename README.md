@@ -18,3 +18,10 @@ https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
 Then unzip to the 'data' directory of this repo: \
 ```cd data``` \
 ```unzip archive.zip```
+
+# Extract Embeddings
+Each image in the dataset is fed through the Barlow Twins model to obtain the embeddings. The embeddings are stored in a csv file.
+
+Warning this takes approximately 1 hour on a CPU.
+
+```python3 extract_embeddings.csv```

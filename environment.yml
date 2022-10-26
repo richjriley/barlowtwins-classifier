@@ -5,3 +5,4 @@ dependencies:
       - torch
       - torchvision
       - matplotlib
+      - alive-progress
